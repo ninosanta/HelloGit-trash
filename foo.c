@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-     printf("Emacs is awesome!\n");
+     printf("Hello World!\n");
      return 0;
 }
